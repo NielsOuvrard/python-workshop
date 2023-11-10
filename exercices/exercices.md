@@ -9,6 +9,8 @@ Write a Python program that swaps the values of two variables without using a te
 <details>
     <summary> 🔍 Hint: Click to reveal</summary>
     ✨ You can use multiple assignment to swap two variables in Python. ✨
+    <!-- [Python's multiple assignment](../courses/variables.md#multiple-assignment) -->
+    <a href="../courses/variables.md#multiple-assignment">Python's multiple assignment</a>
 </details>
 
 ## 2. Palindrome Checker

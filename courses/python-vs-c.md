@@ -71,7 +71,8 @@ static PyObject *my_function(PyObject *self, PyObject *args)
 
 In this chapter, we've discussed the performance considerations when choosing between Python and C. Understanding the strengths and weaknesses of each language is essential for making informed decisions about your programming projects.
 
-
-
-
 # [Now, let's go to the exercices !](../exercices/exercices.md)
+
+## [Back to last chapter: Python vs. C](python-vs-c.md)
+
+## [Back to main page](../readme.md)

@@ -56,3 +56,5 @@ Python follows a different naming convention compared to C. Python uses snake_ca
 In this chapter, we have introduced Python's variable system and common data types, highlighting the differences and similarities with C. In the next chapter, we will explore control flow in Python and how it differs from C's control structures.
 
 # [Next course : Control Flow](control-flow.md)
+
+## [Back to main page](../readme.md)

@@ -113,3 +113,5 @@ Python's `for` loop can be used to iterate through sequences, but it's often mor
 In this chapter, we've explored Python's control flow structures, including conditional statements and loops, and compared them to similar constructs in C. In the next chapter, we'll dive into functions, which play a crucial role in both languages.
 
 # [Next Chapter: Functions](functions.md)
+
+## [Back to last chapter: Variables and Data Types](variables.md)
