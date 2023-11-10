@@ -19,6 +19,7 @@ Create a Python function that checks whether a given string is a palindrome. A p
 <details>
     <summary> 🔍 Hint: Click to reveal</summary>
     ✨ You can use the `reversed()` function to reverse a string in Python. ✨
+    <a href="https://www.geeksforgeeks.org/python-reversed-function/">Python's reversed function</a>
 </details>
 
 
@@ -29,6 +30,7 @@ Create a Python function that generates the Fibonacci sequence up to a specified
 <details>
     <summary> 🔍 Hint: Click to reveal</summary>
     ✨ You can use recursion to generate the Fibonacci sequence in Python. ✨
+    <a href="https://www.programiz.com/python-programming/recursion">Python's recursion</a>
 </details>
 
 ## 4. Print Comb
@@ -54,6 +56,7 @@ Create a Python decorator that repeats the function call n times. In this exampl
 <details>
     <summary> 🔍 Hint: Click to reveal</summary>
     ✨ You can use a decorator to repeat a function call in Python. ✨
+    <a href="../courses/functions.md#Decorators">Python's decorators</a>
 </details>
 
 ## 6. Recreate the `range` function
@@ -64,6 +67,7 @@ The function should work similarly to Python's built-in `range` function.
 <details>
     <summary> 🔍 Hint: Click to reveal</summary>
     ✨ You can use Generator to create a range function in Python. ✨
+    <a href="../courses/functions.md#Generators">Python's generators</a>
 </details>
 
 > ## 🎉 Congratulations, you have finished the workshop !
