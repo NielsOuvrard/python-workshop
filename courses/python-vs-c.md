@@ -1,6 +1,6 @@
 
 
-# Python vs. C Performance Considerations
+# Chapter 6: Python vs. C Performance Considerations
 
 Performance is a critical aspect to consider when choosing between Python and C for your programming tasks. In this chapter, we'll explore the performance differences between Python and C and when to use each language.
 

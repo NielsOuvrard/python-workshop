@@ -1,5 +1,5 @@
 
-# Chapter 5: Lists and Iteration
+# Chapter 4: Lists and Iteration
 
 Lists are essential data structures in Python, and they play a role similar to arrays in C. In this chapter, we will explore Python lists and various iteration techniques.
 

@@ -1,5 +1,5 @@
 
-# Chapter 4: Functions
+# Chapter 3: Functions
 
 In this chapter, we will delve into the world of functions in Python and draw comparisons to your experience with functions in C programming.
 

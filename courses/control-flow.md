@@ -1,4 +1,4 @@
-# Chapter 3: Control Flow
+# Chapter 2: Control Flow
 
 Control flow is a fundamental aspect of programming that allows you to make decisions and control the execution of your code. In this chapter, we will explore the control flow structures in Python and compare them to what you are familiar with in C programming.
 
