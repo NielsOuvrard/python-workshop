@@ -27,6 +27,8 @@ Create a Python function that checks whether a given string is a palindrome. A p
 
 Create a Python function that generates the Fibonacci sequence up to a specified number of terms. The Fibonacci sequence starts with 0 and 1, and each subsequent number is the sum of the two previous numbers.
 
+It begins like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
+
 <details>
     <summary> 🔍 Hint: Click to reveal</summary>
     ✨ You can use recursion to generate the Fibonacci sequence in Python. ✨
