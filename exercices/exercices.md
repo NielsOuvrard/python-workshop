@@ -12,7 +12,7 @@ Write a Python program that swaps the values of two variables without using a te
     <a href="../courses/functions.md#Multiple-return-values">Python's multiple assignment</a>
 </details>
 
-[Solution](solutions/Ex1.py)
+[Solution](../solutions/Ex1.py)
 
 ## 2. Palindrome Checker
 
@@ -24,7 +24,7 @@ Create a Python function that checks whether a given string is a palindrome. A p
     <a href="https://www.w3schools.com/python/python_howto_reverse_string.asp">Python's reverse string</a>
 </details>
 
-[Solution](solutions/Ex2.py)
+[Solution](../solutions/Ex2.py)
 
 ## 3. Fibonacci Sequence
 
@@ -38,7 +38,7 @@ It begins like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
     <a href="https://www.programiz.com/python-programming/recursion">Python's recursion</a>
 </details>
 
-[Solution](solutions/Ex3.py)
+[Solution](../solutions/Ex3.py)
 
 ## 4. Print Comb
 
@@ -49,7 +49,7 @@ This reminds you something ?
 
 > No hint for this one, you can do it !
 
-[Solution](solutions/Ex4.py)
+[Solution](../solutions/Ex4.py)
 
 ## 5. Repeat Function Call
 
@@ -70,7 +70,7 @@ Create a Python `repeat` that repeats the function call n times. In this example
     <a href="../courses/functions.md#Decorators">Python's decorators</a>
 </details>
 
-[Solution](solutions/Ex5.py)
+[Solution](../solutions/Ex5.py)
 
 ## 6. Recreate the `range` function
 
@@ -83,6 +83,6 @@ The function should work similarly to Python's built-in `range` function.
     <a href="../courses/functions.md#Generators">Python's generators</a>
 </details>
 
-[Solution](solutions/Ex6.py)
+[Solution](../solutions/Ex6.py)
 
 > ## 🎉 Congratulations, you have finished the workshop !
