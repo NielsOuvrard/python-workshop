@@ -37,11 +37,11 @@ Let's get started!
 
 - ## Courses (in order)
 
-  - [Variables and Data Types](courses/variables.md)
-  - [Control Flow](courses/control-flow.md)
-  - [Functions](courses/functions.md)
-  - [Lists and Iteration](courses/lists-and-iteration.md)
-  - [Python vs. C](courses/python-vs-c.md)
+    1. [Variables and Data Types](courses/variables.md)
+    2. [Control Flow](courses/control-flow.md)
+    3. [Functions](courses/functions.md)
+    4. [Lists and Iteration](courses/lists-and-iteration.md)
+    5. [Python vs. C](courses/python-vs-c.md)
 
 - ## Exercices
-  - [Link to exercices](exercices/readme.md)
+    [6 exercices, difficulty increasing](exercices/exercices.md)

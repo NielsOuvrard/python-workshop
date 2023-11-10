@@ -46,3 +46,4 @@ def say_hello():
 
 Create a Python decorator that repeats the function call n times. In this example, the function should be called three times.
 
+> ## 🎉 Congratulations, you have finished the workshop !
