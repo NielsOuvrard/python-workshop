@@ -12,6 +12,8 @@ Write a Python program that swaps the values of two variables without using a te
     <a href="../courses/functions.md#Multiple-return-values">Python's multiple assignment</a>
 </details>
 
+[Solution](solutions/Ex1.py)
+
 ## 2. Palindrome Checker
 
 Create a Python function that checks whether a given string is a palindrome. A palindrome is a word, phrase, number, or other sequence that reads the same forward and backward (ignoring spaces, punctuation, and capitalization).
@@ -22,6 +24,7 @@ Create a Python function that checks whether a given string is a palindrome. A p
     <a href="https://www.w3schools.com/python/python_howto_reverse_string.asp">Python's reverse string</a>
 </details>
 
+[Solution](solutions/Ex2.py)
 
 ## 3. Fibonacci Sequence
 
@@ -35,6 +38,8 @@ It begins like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
     <a href="https://www.programiz.com/python-programming/recursion">Python's recursion</a>
 </details>
 
+[Solution](solutions/Ex3.py)
+
 ## 4. Print Comb
 
 Write a Python program that prints all possible combinations of two digits between 012 and 789. The digits of left should always be less than the digits on the right.
@@ -43,6 +48,8 @@ This reminds you something ?
 <!-- In Epitech pool, you had to do this exercice with a C program at the first day. -->
 
 > No hint for this one, you can do it !
+
+[Solution](solutions/Ex4.py)
 
 ## 5. Repeat Function Call
 
@@ -63,6 +70,8 @@ Create a Python `repeat` that repeats the function call n times. In this example
     <a href="../courses/functions.md#Decorators">Python's decorators</a>
 </details>
 
+[Solution](solutions/Ex5.py)
+
 ## 6. Recreate the `range` function
 
 Create a Python function that takes up to three arguments and returns a list of numbers in the specified range.
@@ -74,5 +83,6 @@ The function should work similarly to Python's built-in `range` function.
     <a href="../courses/functions.md#Generators">Python's generators</a>
 </details>
 
-> ## 🎉 Congratulations, you have finished the workshop !
+[Solution](solutions/Ex6.py)
 
+> ## 🎉 Congratulations, you have finished the workshop !
