@@ -42,16 +42,18 @@ This reminds you something ?
 
 > No hint for this one, you can do it !
 
-## 5. Decorators
+## 5. Repeat Function Call
 
 This is a function `say_hello`.
 ```python
+# use this function
+
 @repeat(3)
 def say_hello():
     print("Hello!")
 ```
 
-Create a Python decorator that repeats the function call n times. In this example, the function should be called three times.
+Create a Python `repeat` that repeats the function call n times. In this example, the function should be called three times.
 
 <details>
     <summary> 🔍 Hint: Click to reveal</summary>
