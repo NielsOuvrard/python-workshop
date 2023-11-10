@@ -1,7 +1,5 @@
 def is_palindrome(string):
-    # Remove spaces and convert to lowercase for case-insensitive comparison
-    clean_string = string.replace(" ", "").lower()
-    return clean_string == clean_string[::-1]
+    return string == string[::-1]
 
 # Example usage:
 word = "racecar"

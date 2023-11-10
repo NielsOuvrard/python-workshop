@@ -18,8 +18,8 @@ Create a Python function that checks whether a given string is a palindrome. A p
 
 <details>
     <summary> 🔍 Hint: Click to reveal</summary>
-    ✨ You can use the `reversed()` function to reverse a string in Python. ✨
-    <a href="https://www.geeksforgeeks.org/python-reversed-function/">Python's reversed function</a>
+    ✨ Do you know [::-1] and what it does ? ✨
+    <a href="https://www.w3schools.com/python/python_howto_reverse_string.asp">Python's reverse string</a>
 </details>
 
 
