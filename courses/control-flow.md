@@ -55,42 +55,9 @@ Python offers two main loop structures: for and while. These loops have similari
 `for` Loop
 In Python, the for loop is primarily used for iterating over sequences (like lists) or other iterable objects.
 
-### Iterating Through Lists
-```python
-# Python's for loop
-fruits = ["apple", "banana", "cherry"]
-for fruit in fruits:
-    print(fruit)
-````
+### Iterating Through a Range of Numbers
 
-In C, you might use a for loop like this:
-```c
-// C's for loop
-char *fruits[] = {"apple", "banana", "cherry"};
-for (int i = 0; i < 3; i++) {
-    printf("%s\n", fruits[i]);
-}
-```
-
-### Iterating Through a Range
-
-Python's for loop can also be used to iterate through a range of numbers.
-
-```python
-# Python's for loop with range
-for i in range(5):
-    print(i)
-```
-
-```c
-// C's for loop with range
-for (int i = 0; i < 5; i++) {
-    printf("%d\n", i);
-}
-```
-
-`while` Loop
-The while loop in Python works similarly to the while loop in C, with a condition to control the loop.
+The `while` loop in Python works similarly to the while loop in C, with a condition to control the loop.
 
 ```python
 # Python's while loop
@@ -105,6 +72,38 @@ int count = 0;
 while (count < 5) {
     printf("%d\n", count);
     count++;
+}
+```
+
+The `for` loop in Python works similarly to the for loop in C, but it's more concise and intuitive.
+
+```python
+# Python's for loop with range
+for i in range(5):
+    print(i)
+```
+
+```c
+// C's for loop with range
+for (int i = 0; i < 5; i++) {
+    printf("%d\n", i);
+}
+```
+
+### Iterating Through Lists
+```python
+# Python's for loop
+fruits = ["apple", "banana", "cherry"]
+for fruit in fruits:
+    print(fruit)
+````
+
+In C, you might use a for loop like this:
+```c
+// C's for loop
+char *fruits[] = {"apple", "banana", "cherry"};
+for (int i = 0; i < 3; i++) {
+    printf("%s\n", fruits[i]);
 }
 ```
 

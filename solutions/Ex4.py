@@ -1,11 +1,10 @@
-def generate_fibonacci(n):
-    fib_sequence = [0, 1]
-    while len(fib_sequence) < n:
-        next_num = fib_sequence[-1] + fib_sequence[-2]
-        fib_sequence.append(next_num)
-    return fib_sequence
+def print_comb():
+    for i in range(10):
+        for j in range(10):
+            for k in range(10):
+                if (i < j < k):
+                    print(i, j, k)
 
-# Example usage:
-terms = 10
-fibonacci_sequence = generate_fibonacci(terms)
-print("Fibonacci sequence with", terms, "terms:", fibonacci_sequence)
+# not the cleanest solution, but it works
+
+print_comb()

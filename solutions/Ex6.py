@@ -1,15 +1,13 @@
-# Example 2: Decorator with arguments
-def repeat(n):
-    def decorator(func):
-        def wrapper():
-            for _ in range(n):
-                func()
-        return wrapper
-    return decorator
+def my_range(start, stop=None, step=1):
+    # If only one argument is provided, set start=0 and stop=argument
+    if stop is None:
+        stop = start
+        start = 0
 
-@repeat(3)
-def say_hello():
-    print("Hello!")
+    while (step > 0 and start < stop) or (step < 0 and start > stop):
+        yield start
+        start += step
 
-# Using the decorated function
-say_hello()
+# Example usage:
+for i in my_range(10, 0, -2):
+    print(i)

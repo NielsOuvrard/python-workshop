@@ -1,8 +1,13 @@
-def print_comb():
-    for i in range(10):
-        for j in range(10):
-            for k in range(10):
-                if (i < j < k):
-                    print(i, j, k)
+def repeat(n):
+    def decorator(func):
+        def wrapper():
+            for _ in range(n):
+                func()
+        return wrapper
+    return decorator
 
-print_comb()
+@repeat(3)
+def say_hello():
+    print("Hello!")
+
+say_hello()
