@@ -20,7 +20,7 @@ print(my_dict['name'])  # Output: John
 
 ### Dictionary operations
 
-> [!info] Adding and Modifying Elements
+> [!INFO] Adding and Modifying Elements
 
 You can add new key-value pairs or modify existing ones in a dictionary.
 
@@ -33,7 +33,7 @@ my_dict['occupation'] = 'Engineer'
 my_dict['age'] = 26
 ```
 
-> [!info] Removing Elements
+> [!INFO] Removing Elements
 To remove a key-value pair from a dictionary, you can use the del keyword or the pop() method.
 
 ```python
