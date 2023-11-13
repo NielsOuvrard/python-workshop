@@ -81,8 +81,6 @@ In this chapter, we've explored Python lists and various ways to iterate through
 
 
 
-## [Last Chapter: Python vs. C](python-vs-c.md)
+## [Next chapter: Dictionaries](dictionaries.md)
 
 ### [Back to last chapter: Functions](functions.md)
-
-### Or, you can go directly to the exercices [here](../exercices/exercices.md)

@@ -86,3 +86,8 @@ print(my_dict)  # Output: {'name': 'John', 'age': 25, 'occupation': 'Engineer'}
 ```
 
 In summary, dictionaries in Python provide a versatile and efficient way to organize and manipulate data through key-value pairs.
+
+
+## [Next chapter: Tuples](tuples.md)
+
+### [Back to last chapter: Lists and Iteration](lists-and-iteration.md)

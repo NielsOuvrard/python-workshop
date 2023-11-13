@@ -41,7 +41,9 @@ Let's get started!
     2. [Control Flow](courses/control-flow.md)
     3. [Functions](courses/functions.md)
     4. [Lists and Iteration](courses/lists-and-iteration.md)
-    5. [Python vs. C](courses/python-vs-c.md)
+    5. [Dictionaries](courses/dictionaries.md)
+    6. [Tuples](courses/tuples.md)
+    7. [Python vs. C](courses/python-vs-c.md)
 
 - ### Exercices
-    [6 exercices, difficulty increasing](exercices/exercices.md)
+    [8 exercices, difficulty increasing](exercices/exercices.md)

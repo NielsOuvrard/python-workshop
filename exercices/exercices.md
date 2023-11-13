@@ -85,4 +85,73 @@ The function should work similarly to Python's built-in `range` function.
 
 [Solution](../solutions/Ex6.py)
 
+<!-- about dictionaries -->
+
+## 7. Dictionary Manipulation
+
+You are given a dictionary representing information about books in a library.
+
+```python
+library_books = {
+    'book1': {'title': 'Python Basics', 'author': 'John Smith', 'genre': 'Programming'},
+    'book2': {'title': 'Data Science Essentials', 'author': 'Alice Johnson', 'genre': 'Data Science'},
+    'book3': {'title': 'History of Science', 'author': 'Michael Turner', 'genre': 'History'},
+    'book4': {'title': 'Cooking Mastery', 'author': 'Emily White', 'genre': 'Cooking'},
+    'book5': {'title': 'Artificial Intelligence', 'author': 'David Lee', 'genre': 'Programming'},
+}
+```
+
+1. Add a new book to the library called `book6` with the title `Gardening for Beginners`, the author `Sarah Smith`, and the genre `Gardening`.
+2. Remove `book3` from the library.
+3. Change the genre of `book4` to `Cooking Basics`.
+4. Print the titles of all the books in the library.
+5. Print the author of `book1`.
+6. Return a book containing the title `Data Science Essentials`.
+7. Check if the library contains a book called `Cryptography`.
+8. Creating a new dictionary `programming_books` containing all books with the genre `Programming`.
+
+<details>
+    <summary> 🔍 Hint: Click to reveal</summary>
+    ✨ You can use the del keyword or the pop() method to remove a key-value pair from a dictionary. ✨
+    <a href="../courses/dictionaries.md#Dictionary-operations">Python's dictionary operations</a>
+</details>
+
+[Solution](../solutions/Ex7.py)
+
+## 8 Tuple Manipulation
+
+You are given a tuple representing the temperatures in Celsius for a week.
+
+```python
+temperatures = (30, 32, 28, 22, 30, 29, 24)
+```
+
+1. Find the `average` temperature for the week.
+2. Find the `maximum` temperature for the week.
+3. Which day had the minimum temperature for the week?
+4. Check if the temperatures list contains a temperature of `27`.
+5. What was the temperature on Thursday?
+6. Create a new tuple with temperatures in Fahrenheit.
+
+```python
+# Your code here
+
+# After your code, print the results
+print("Average Temperature:", average_temperature)
+print("Maximum Temperature:", max_temperature)
+print("Minimum Temperature is on", min_temperature_day)
+print("Is 27 present?", is_27_present)
+print("Temperature on Thursday:", thursday_temperature)
+print("Temperatures in Fahrenheit:", temperatures_fahrenheit)
+```
+
+<details>
+    <summary> 🔍 Hint: Click to reveal</summary>
+    ✨ You can use the sum() and len() functions to calculate the average temperature ✨
+    ✨ From Celsius to Fahrenheit : `F = (C * 9/5) + 32` ✨
+    <a href="../courses/tuples.md#Iterating-Through-Tuples">Python's tuple operations</a>
+</details>
+
+[Solution](../solutions/Ex8.py)
+
 > ## 🎉 Congratulations, you have finished the workshop !
