@@ -172,7 +172,7 @@ def greet():
 
 greet()  # "HELLO, WORLD!"
 ```
-> [!INFO]\
+> [!NOTE]\
 > The @uppercase syntax is a shorthand way of saying `greet = uppercase(greet)`
 
 8. ## Generators
