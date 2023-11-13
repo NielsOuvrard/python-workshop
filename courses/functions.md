@@ -172,7 +172,8 @@ def greet():
 
 greet()  # "HELLO, WORLD!"
 ```
-> ℹ️ The @uppercase syntax is a shorthand way of saying `greet = uppercase(greet)`
+> [!INFO]\
+> The @uppercase syntax is a shorthand way of saying `greet = uppercase(greet)`
 
 8. ## Generators
 Python supports generators, which are functions that can be paused and resumed, allowing for lazy evaluation of values. This is not a feature in C.
